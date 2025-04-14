@@ -43,6 +43,7 @@
 
 /*一番下の図形へのスタイル適用*/
 #bottom {
+    margin:auto;
     width: 800px; /* 幅800px */
     height: 300px; /* 高さ300px */
     background-color: #87ceeb; /* 背景色 skyblue */
@@ -61,6 +62,7 @@
 
 #bottom-child01 {
     top: 0;
+    left: 0;
 }
 
 #bottom-child02 {
