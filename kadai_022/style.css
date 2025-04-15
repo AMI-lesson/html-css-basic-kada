@@ -75,5 +75,6 @@ footer a:hover{
     }
     #parent{
         display: block;
+        flex-direction: column;
     }
 }
